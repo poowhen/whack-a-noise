@@ -1,0 +1,1 @@
+obj_controller.noisehole[0]=id

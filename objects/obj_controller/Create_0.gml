@@ -1,0 +1,12 @@
+global.noisette=-5
+global.supertauntnotic=0
+hammersub=0
+scale=1
+scalesp=0
+dosupertaunt=0
+scalegrv=0
+tauntsub=0
+taunt=0
+depth=-200
+global.score=0
+global.gamespeed=1
